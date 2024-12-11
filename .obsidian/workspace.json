@@ -1,0 +1,271 @@
+{
+  "main": {
+    "id": "dd6fa8add2d4db4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c10179c169ecb10",
+        "type": "tabs",
+        "dimension": 64.24474187380497,
+        "children": [
+          {
+            "id": "25c7275d38b9ddc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/Lịch thi HK1 24-25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lịch thi HK1 24-25"
+            },
+            "group": "44cf98d0aed0b219"
+          }
+        ]
+      },
+      {
+        "id": "6c1a263737a99b63",
+        "type": "tabs",
+        "dimension": 35.75525812619503,
+        "children": [
+          {
+            "id": "01111d98daf0a7a3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "1 - Rough Notes/Lịch thi HK1 24-25.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:\"4 - Indexes\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:\"3 - Tags\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4964103851374552,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Lịch thi HK1 24-25"
+            },
+            "group": "44cf98d0aed0b219"
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0270979e1a3c1a8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "63967167ee28b45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc70a4a2bdc8a54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ee48abc4e1550a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#baby",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dc74c4916a47fec2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "a6ffe8fe0ab4ff05",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da75c702d3f845b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e92732c0174d0a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 - Rough Notes/Intro to Statistics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro to Statistics"
+            }
+          },
+          {
+            "id": "27a3420ce3e7f8a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 - Rough Notes/Intro to Statistics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Statistics"
+            }
+          },
+          {
+            "id": "088a197763d4faf1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "828971eff6c1a2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 - Rough Notes/Intro to Statistics.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro to Statistics"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "25c7275d38b9ddc2",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Kiểm định giả thuyết.md",
+    "1 - Rough Notes/Lịch thi HK1 24-25.md",
+    "1 - Rough Notes/Ước lượng điểm, khoảng.md",
+    "1 - Rough Notes/Quần thể và mẫu.md",
+    "3 - Tags/statistics.md",
+    "4 - Indexes/probability and statistics.md",
+    "3 - Tags/probability.md",
+    "1 - Rough Notes/P, NP, NP-hard và NP-complete.md",
+    "1 - Rough Notes/todo-list.md",
+    "1 - Rough Notes/Intro to Project Management.md",
+    "3 - Tags/pm-skills.md",
+    "4 - Indexes/life.md",
+    "4 - Indexes/research.md",
+    "1 - Rough Notes/Intro to Data Mining.md",
+    "3 - Tags/data-mining.md",
+    "6 - Atomic Notes/2024-12-09.md",
+    "3 - Tags/uet.md",
+    "4 - Indexes/optimization.md",
+    "1 - Rough Notes/Intro to Optimization.md",
+    "3 - Tags/optim-basis.md",
+    "5 - Templates/Full Note.md",
+    "Excalidraw/BertModel.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-12-03 15.26.40.excalidraw.png",
+    "Excalidraw/Drawing 2024-12-04 21.46.52.excalidraw.md",
+    "1 - Rough Notes/minBERT Multi Tasks.md",
+    "3 - Tags/research paper.md",
+    "Excalidraw/software-architecture.excalidrawlib",
+    "Excalidraw/Unconfirmed 821500.crdownload",
+    "Excalidraw",
+    "6 - Atomic Notes/NLP report outline - minBERT with Contrastive Learning.md",
+    "6 - Atomic Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Materials",
+    "1 - Rough Notes"
+  ]
+}
