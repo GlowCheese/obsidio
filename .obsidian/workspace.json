@@ -4,66 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "6c10179c169ecb10",
+        "id": "39731b8b848db8c2",
         "type": "tabs",
-        "dimension": 64.24474187380497,
+        "dimension": 65.38461538461539,
         "children": [
           {
-            "id": "25c7275d38b9ddc2",
+            "id": "ebd86cc71d86ae4e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8dcd239e581477dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1 - Rough Notes/Lịch thi HK1 24-25.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Lịch thi HK1 24-25"
-            },
-            "group": "44cf98d0aed0b219"
+            }
           }
         ]
       },
       {
-        "id": "6c1a263737a99b63",
+        "id": "1e41dc1e7cf65529",
         "type": "tabs",
-        "dimension": 35.75525812619503,
+        "dimension": 34.61538461538461,
         "children": [
           {
-            "id": "01111d98daf0a7a3",
+            "id": "22882a83cc0c3294",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - Rough Notes/Lịch thi HK1 24-25.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [
-                    {
-                      "query": "path:\"4 - Indexes\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14701138
-                      }
-                    },
-                    {
-                      "query": "path:\"3 - Tags\"  ",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14725458
-                      }
-                    }
-                  ],
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
@@ -74,17 +68,15 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4964103851374552,
+                  "scale": 0.2513776693187763,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lịch thi HK1 24-25"
-            },
-            "group": "44cf98d0aed0b219"
+              "title": "Graph view"
+            }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#baby",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 229.5
   },
   "right": {
     "id": "a6ffe8fe0ab4ff05",
@@ -156,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Rough Notes/Intro to Statistics.md",
+                "file": "1 - Rough Notes/Boxplot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro to Statistics"
+              "title": "Backlinks for Boxplot"
             }
           },
           {
@@ -175,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Rough Notes/Intro to Statistics.md",
+                "file": "1 - Rough Notes/Boxplot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Intro to Statistics"
+              "title": "Outgoing links from Boxplot"
             }
           },
           {
@@ -190,22 +182,22 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "828971eff6c1a2f1",
+            "id": "3e69a6e8a1e3f111",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Rough Notes/Intro to Statistics.md"
+                "file": "1 - Rough Notes/Hiểu dữ liệu.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Intro to Statistics"
+              "title": "Outline of Hiểu dữ liệu"
             }
           }
         ],
@@ -224,43 +216,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25c7275d38b9ddc2",
+  "active": "7bc70a4a2bdc8a54",
   "lastOpenFiles": [
-    "1 - Rough Notes/Kiểm định giả thuyết.md",
     "1 - Rough Notes/Lịch thi HK1 24-25.md",
-    "1 - Rough Notes/Ước lượng điểm, khoảng.md",
-    "1 - Rough Notes/Quần thể và mẫu.md",
-    "3 - Tags/statistics.md",
-    "4 - Indexes/probability and statistics.md",
-    "3 - Tags/probability.md",
-    "1 - Rough Notes/P, NP, NP-hard và NP-complete.md",
-    "1 - Rough Notes/todo-list.md",
-    "1 - Rough Notes/Intro to Project Management.md",
-    "3 - Tags/pm-skills.md",
-    "4 - Indexes/life.md",
-    "4 - Indexes/research.md",
-    "1 - Rough Notes/Intro to Data Mining.md",
-    "3 - Tags/data-mining.md",
-    "6 - Atomic Notes/2024-12-09.md",
-    "3 - Tags/uet.md",
-    "4 - Indexes/optimization.md",
     "1 - Rough Notes/Intro to Optimization.md",
     "3 - Tags/optim-basis.md",
-    "5 - Templates/Full Note.md",
-    "Excalidraw/BertModel.md",
+    "3 - Tags/optim-ques.md",
+    "3 - Tags/optim-algo.md",
+    "1 - Rough Notes/Heuristic cấu trúc.md",
+    "1 - Rough Notes/Thuật toán epsilon-Xấp xỉ tuyệt đối.md",
+    "4 - Indexes/optimization.md",
+    "1 - Rough Notes/Quy hoạch tuyến tính.md",
+    "4 - Indexes/research.md",
+    "4 - Indexes/probability and statistics.md",
+    "4 - Indexes/life.md",
+    "1 - Rough Notes/Tìm kiếm địa phương.md",
+    "7 - Pasted Images/Pasted image 20241216111756.png",
+    "7 - Pasted Images/Pasted image 20241215185810.png",
+    "7 - Pasted Images/Pasted image 20241215021708.png",
+    "7 - Pasted Images/Pasted image 20241215010037.png",
+    "7 - Pasted Images/Pasted image 20241214180929.png",
+    "7 - Pasted Images/Pasted image 20241214180636.png",
+    "7 - Pasted Images",
+    "7 - Pasted Images/Pasted image 20241214181507.png",
+    "7 - Pasted Images/Pasted image 20241216111054.png",
+    "7 - Pasted Images/Pasted image 20241215173123.png",
+    "7 - Pasted Images/Pasted image 20241215021315.png",
+    "1 - Rough Notes/Catalog of Data Mining.md",
+    "1 - Rough Notes/Untitled 1.md",
+    "1 - Rough Notes/Phân lớp.md",
+    "1 - Rough Notes/Chuyển dạng dữ liệu.md",
+    "1 - Rough Notes/Tích hợp dữ liệu.md",
+    "1 - Rough Notes/Làm sạch dữ liệu.md",
+    "1 - Rough Notes/Hiểu dữ liệu.md",
+    "1 - Rough Notes/Intro to Data Mining.md",
+    "1 - Rough Notes/Phân cụm.md",
+    "3 - Tags/data-mining.md",
+    "1 - Rough Notes/Tiền xử lý dữ liệu.md",
+    "1 - Rough Notes/Rút gọn dữ liệu.md",
+    "1 - Rough Notes/Boxplot.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-12-03 15.26.40.excalidraw.png",
-    "Excalidraw/Drawing 2024-12-04 21.46.52.excalidraw.md",
-    "1 - Rough Notes/minBERT Multi Tasks.md",
-    "3 - Tags/research paper.md",
     "Excalidraw/software-architecture.excalidrawlib",
     "Excalidraw/Unconfirmed 821500.crdownload",
     "Excalidraw",
-    "6 - Atomic Notes/NLP report outline - minBERT with Contrastive Learning.md",
     "6 - Atomic Notes",
     "5 - Templates",
     "4 - Indexes",

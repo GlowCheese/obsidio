@@ -12,15 +12,6 @@
 		- đối tượng dữ liệu tăng 67 lần.
 		- Lực lượng nhân lực CNTT tăng 1,4 lần.
 - Nhu cầu thu nhận tri thức từ dữ liệu:
-	- Dữ liệu ngày càng lớn
-	- Con người không có đủ thời gian để xem xét dữ liệu như vậy.
-	- -> nhu cầu tự động hóa việc biến dữ liệu thành tri thức, bao gồm:
-		- tự động phân tích
-		- tự động phân loại
-		- tự động tóm tắt
-		- tự động phát hiện
-		- tự động mô tả các xu hướng trong nó
-		- tự động chỉ dẫn các dị thường
 	- Tính ứng dụng cao: thống kê, trực quan hóa, trí tuệ nhân tạo và học máy.
 		- nhận ra các xu hướng kinh doanh
 		- ngăn ngừa bệnh tật
@@ -37,10 +28,6 @@
 	- hấp dẫn, hữu ích
 	- chưa được biết đến
 	- ẩn chứa trong dữ liệu
-- Là một bước trong quá trình khai phá tri thức từ cơ sở dữ liệu:
-	- CSDL -> chọn lựa -> tiền xử lý -> đổi dạng
-	- Data được chuyển dạng -> KPDL -> mẫu
-	- Trình diễn mẫu -> tri thức
 - Quá trình khai phá dữ liệu:
 	- Học từ miền ứng dụng -> chọn lựa dữ liệu
 	- -> chuẩn bị dữ liệu và tiền xử lý
@@ -50,18 +37,16 @@
 	- -> thực hiện khai phá để tìm mẫu hấp dẫn
 	- -> đánh giá mẫu và trình diễn tri thức
 	- -> sử dụng tri thức phát hiện được.
-
-## Các loại dữ liệu:
-- Dữ liệu tài chính, ngân hàng
-- Dữ liệu viễn thông
-- Dữ liệu văn bản
-- Dữ liệu chuỗi (time series, sequential)
-- Dữ liệu đa phương tiện (ảnh, video, âm thanh)
-- Dữ liệu bản đồ, không gian
-- Dữ liệu y/sinh học
-- Dữ liệu web
-- Dữ liệu quảng cáo trực tuyến
-- Dữ liệu đồ thị, mạng liên kết
+- Động lực KPDL:
+	- Dữ liệu ngày càng lớn
+	- Con người không có đủ thời gian để xem xét dữ liệu như vậy.
+	- -> nhu cầu tự động hóa việc biến dữ liệu thành tri thức, bao gồm:
+		- tự động phân tích
+		- tự động phân loại
+		- tự động tóm tắt
+		- tự động phát hiện
+		- tự động mô tả các xu hướng trong nó
+		- tự động chỉ dẫn các dị thường
 
 ## Các bài toán chính:
 - Phân lớp, phân loại (classification/categorization)
